@@ -16,7 +16,7 @@ export default function Home() {
             Coming Soon 👕🖨️🪡
           </h1>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            SCALS Printing Services Agency Dashboard and Transaction POS. WOW Sino ka dyan.
+            SCALS Printing Services Admin/Owner Dashboard System and Transaction POS. WOW Sino ka dyan.
           </p>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
             Abangan 3-5 years HAHAHA !  
