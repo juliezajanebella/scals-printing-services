@@ -17,8 +17,9 @@ export default function Home() {
             Comming Soon. Abangan next 100 years!
           </h1>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            SCALS Printing Services Agency and Transaction POS. WOW Sino ka dyan. KAY SCALS ANG 2026 💗 . IN JESUS NAME . WOHOOO !!!
+            SCALS Printing Services Agency and Transaction POS. WOW Sino ka dyan. KAY SCALS ANG 2026 💗 . 
           </p>
+          <p>IN JESUS NAME . WOHOOO !!!</p>
         </div>
       </main>
     </div>
